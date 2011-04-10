@@ -10,7 +10,7 @@ layout: nil
 
 body {
 background-color: none;
-background-image:url('/chrome/background/back.jpg')
+background-image:url('')
 }
 a:link {
 	color: #1F384B;
