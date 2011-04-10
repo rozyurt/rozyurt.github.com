@@ -27,7 +27,7 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-repository: frkcn.github.com
+repository: rozyurt.github.com
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -59,7 +59,7 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-        user: frkcn
+        user: rozyurt
         # tam kullanıcı adı (ör. Recai Oktaş)
         fullname: Rauf Özyurt
         # email adresi (ör. roktas@bil.omu.edu.tr)
