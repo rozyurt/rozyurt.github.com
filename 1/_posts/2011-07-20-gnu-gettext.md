@@ -1,4 +1,7 @@
-.PO VE .MO UZANTILI DOSYALAR NEDIR?
+---
+layout: post
+title: .PO VE .MO UZANTILI DOSYALAR NEDİR?
+---
 
 Yazılımlara çoklu dil desteği sağlamak için çevirilerinin yapılması gerekir. Yazılımın hangi dilde çalışacağına kullanıcı karar verir ve dil seçimini yapar. Yazılım İngilizce olarak hazırlandığına göre başka bir dilde çalışması için o dile ait çevirisinin bulunması ve bunun çalıştırılması gerekmektedir. Burada kullanılacak olan farklı dillerde yazılmış olan mesajlar veya dökümantasyonlar .mo uzantılı dosyanın içinde bulunurlar. Bu dosyalar bir editör yardımıyla düzenlenebilen .po uzantılı dosyalardan oluşurlar. Kısaca .mo uzantılı dosyalar .po uzantılı dosyaların derlenmiş halidir. .po uzantılı dosyaların içeriğine gelecek olursak çevirilerden oluşurlar. herhangi bir yazılımdaki dizgileri ve bu dizgilerin farklı bir dile çevrilmiş halini bulundururlar. örnek verecek olursak bu dosyaların içeriği aşağıdaki gibidir.
 
